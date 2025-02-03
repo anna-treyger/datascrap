@@ -1,0 +1,1 @@
+My group and I primarily used the Pandas library to scrape data from APIs on the NYC Open Data website and find a correlation between housing data in 10 Brooklyn zip codes as well as the arrests data in those zip codes and the dates of each arrest.
